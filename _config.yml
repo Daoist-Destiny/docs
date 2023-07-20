@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Daoist Destiny 
-subtitle: ''
+title: 归道
+subtitle: 'Daoist Destiny '
 description: ''
 keywords:
 author: 符十三郎
-language: zh-cn
+language: zh-CN
 timezone: 'Asia/ShangHai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://daoist-destiny.github.io 
+url: https://daoist-destiny.fushisanlang.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,6 +102,3 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: 'git@github.com:Daoist-Destiny/daoist-destiny.github.io.git'
-  branch: master
